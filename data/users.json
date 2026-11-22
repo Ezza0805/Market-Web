@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "email": "admin@marketplace.local",
+    "password": "$2y$10$xU1k9d.DgCqe4UaD7AloCuVv44CesChBh6SAqc9WzliSrcU/1.3am",
+    "role": "admin",
+    "full_name": "System Administrator",
+    "created_at": "2026-11-20 10:00:00"
+  },
+  {
+    "id": 2,
+    "username": "customer",
+    "email": "user@marketplace.local",
+    "password": "$2y$10$A9lRyd9Hu6EK6sRPnHxo3ewc.R0i8k9WsA4H4dE5N739ZTLeEmGeG",
+    "role": "user",
+    "full_name": "John Customer",
+    "created_at": "2026-11-21 11:30:00"
+  }
+]
